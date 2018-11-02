@@ -8,10 +8,10 @@ Bonus Questions - none
 50 total marks /2 = 75% 
 
 
-2
+
 December 1st, 2018
 Time limit: One hour, full class is available.
-=======
+
 
 What does WIMP stand for?
 c) Windows,illegal, mohjave, person
